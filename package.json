@@ -2,6 +2,9 @@
   "name": "place",
   "version": "1.0.0",
   "description": "A open-source clone of Reddit's April Fools joke",
+  "engines": {
+    "node": "18.x"
+  }
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
